@@ -1,6 +1,6 @@
-resource "azurerm_resource_group" "rg-staticsite" {
+resource "azurerm_resource_group" "rg-raox26121" {
   provider = azurerm.cloud
-  name     = "rg-staticsite"
+  name     = "rg-raox26121"
   location = "eastus"
 }
 

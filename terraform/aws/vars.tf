@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "mystaticsitekb"
+  default = "staticsite-raoxmulticloud-v001"
 }
 
 variable "website_endpoint" {
